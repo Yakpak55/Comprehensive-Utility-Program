@@ -10,3 +10,5 @@ Code Functionality:
 ● Grade Distribution Analysis: Reads grades from a text file and calculates the distribution of grades (A, B, C, D, F), displaying the results.
 
 ● Value Increment Update: Uses pointers to increment a value based on user input, demonstrating the use of pointers and dynamic value updates.
+
+Skills: C (Programming Language) · File I/O Operations · Dynamic Memory · Problem Solving · Software Development Lifecycle
